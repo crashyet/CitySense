@@ -15,11 +15,14 @@
     "@react-three/fiber": "^9.4.0",
     "@splinetool/react-spline": "^4.1.0",
     "@tailwindcss/vite": "^4.1.17",
+    "apexcharts": "^5.3.6",
     "gsap": "^3.13.0",
     "lucide-react": "^0.553.0",
     "react": "^19.2.0",
+    "react-apexcharts": "^1.8.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.6",
+    "recharts": "^3.4.1",
     "three": "^0.181.1"
   },
   "devDependencies": {
