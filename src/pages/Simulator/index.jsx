@@ -15,6 +15,7 @@ export default function Simulator() {
     solarPanel: 15,
   };
 
+  
   // Sliders
   const [electricVehicle, setElectricVehicle] = useState(defaultValues.electricVehicle);
   const [greenSpaces, setGreenSpaces] = useState(defaultValues.greenSpaces);

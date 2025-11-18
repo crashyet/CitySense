@@ -6,6 +6,7 @@ export default function IdeasPage() {
     <>
       <Navbar />
 
+
       {/* WRAPPER WARNA CITYSENSE */}
       <div className="w-full min-h-screen bg-[#0B0F17] text-white">
         <div className="pt-24 px-6 max-w-7xl mx-auto">

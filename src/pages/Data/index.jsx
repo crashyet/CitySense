@@ -6,6 +6,7 @@ export default function DataPage() {
     <>
       <Navbar />
 
+
       {/* FULL PAGE BACKGROUND */}
       <div className="min-h-screen w-full bg-[#0b0f19] pt-24 pb-20">
         <div className="max-w-7xl mx-auto px-6 text-white">

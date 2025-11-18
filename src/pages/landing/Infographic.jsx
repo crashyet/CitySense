@@ -92,6 +92,7 @@ const Infographic = () => {
               </div>
             </div>
 
+
             {/* Mobility Section */}
             <div className="grid grid-cols-1 gap-4 rounded-2xl border border-white/10 bg-white/5 p-4 backdrop-blur md:grid-cols-3">
               <div className="text-sm font-medium text-white/90">Mobilitas</div>

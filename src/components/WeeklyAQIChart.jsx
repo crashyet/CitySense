@@ -12,6 +12,7 @@ const aqiData = [
   { day: "Sun", aqi: 35 },
 ];
 
+
 const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload && payload.length) {
     return (

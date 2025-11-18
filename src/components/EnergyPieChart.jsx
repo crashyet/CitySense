@@ -9,6 +9,7 @@ const data = [
   { name: "Other", value: 5, color: "#6c757d" },
 ];
 
+
 export default function EnergyPieChart() {
   return (
     <>

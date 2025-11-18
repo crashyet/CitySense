@@ -16,6 +16,7 @@ const trafficData = [
   { hour: "22:00", congestion: 35 },
 ];
 
+
 export default function TrafficCongestionChart() {
   // Harus mengembalikan JSX
   return ( // Pastikan ada return

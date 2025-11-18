@@ -9,6 +9,7 @@ export default function Dashboardpack() {
     <>
       <Navbar />
 
+
       <div className="relative w-full bg-gradient-to-b from-black via-[#071014] to-[#0d1a24] text-white pb-24 pt-32">
         <div className="mx-auto max-w-7xl px-6">
 

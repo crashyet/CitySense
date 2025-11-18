@@ -1,7 +1,7 @@
 // src/components/Hero.jsx
 import React from "react";
-import Background from "/src/assets/background.png";
-import BgGif from "/src/assets/background2.gif";
+import Background from "/src/assets/bg-hero.png";
+import BgGif from "/src/assets/bg-vid.gif";
 
 const Hero = () => {
   return (

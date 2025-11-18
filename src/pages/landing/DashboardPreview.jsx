@@ -23,6 +23,7 @@ const stats = [
   },
 ];
 
+
 export default function DashboardPreview() {
   return (
     <section
